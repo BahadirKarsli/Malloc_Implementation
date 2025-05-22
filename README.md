@@ -1,5 +1,4 @@
 # Memory Allocator Report
-======================
 
 ## 1. Explanation of External Fragmentation
 ----------------------------------------
